@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "atuljkamble/jenkins-docker-maven"
+        IMAGE_NAME = "PradipPach/jenkins-docker-maven"
     }
 
     stages {
